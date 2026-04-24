@@ -1,6 +1,9 @@
 # 🦕 Team Dino — Student Team Members Management App
 ---
 
+Pratyush Jaitely RA2311027010072
+
+
 ## 📋 Project Description
 
 A full-stack web application to manage student team members. Built with:
